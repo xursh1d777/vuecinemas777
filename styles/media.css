@@ -1,0 +1,28 @@
+@media (max-width: 1200px) {
+    
+}
+@media (max-width: 992px) {
+    .header__nav .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .films__title{
+        font-size: 15px;
+    }
+    .films__text{
+        width: 100%;
+    }
+}
+@media (max-width: 768px) {
+    .intro__text, .widow__text{
+        width: 100%;
+    }
+}
+@media (max-width: 576px) {
+    .widow__image{
+        width: 100%;
+    }
+}
+@media (max-width: 300px) {
+    
+}
